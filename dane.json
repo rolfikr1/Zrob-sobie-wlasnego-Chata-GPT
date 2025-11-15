@@ -1,0 +1,244 @@
+[
+  {
+    "id_zgloszenia": "2080496",
+    "id_klienta": "2001711",
+    "temat": "Callcenter - internet",
+    "rozmowa": [
+      "Klient: BRAK NETA",
+      "Technik: Wymiana uszkodzonego zasilacza"
+    ],
+    "przyczyna": "Zasilacz"
+  },
+  {
+    "id_zgloszenia": "2080495",
+    "id_klienta": "2001664",
+    "temat": "Callcenter -",
+    "rozmowa": [
+      "Klient: Proszę o kontakt DT z klientem w sprawie awarii routera . urządzenie nie działa",
+      "Technik: Wymiana uszkodzonego zasilacza"
+    ],
+    "przyczyna": "Zasilacz"
+  },
+  {
+    "id_zgloszenia": "2080469",
+    "id_klienta": "2004657",
+    "temat": "Aktywacja i Instalacja Fiber XL PILNE!",
+    "rozmowa": [
+      "Klient: Aktywacja Pana w dniu dzisiejszym. Najpóźniej jutro. Trzeba podjechać do klienta. Szczegóły u Moniki",
+      "Technik: Aktywowano"
+    ],
+    "przyczyna": "Aktywacja"
+  },
+  {
+    "id_zgloszenia": "2080468",
+    "id_klienta": "2000023",
+    "temat": "Callcenter - internet",
+    "rozmowa": [
+      "Klient: Proszę o kontakt DT z klientem w sprawie braku parametrów łącza internetowego zgodnych z umową",
+      "Technik: Klient niepoprawnie mierzył prędkość, poinstruowano jak powinien mierzyć"
+    ],
+    "przyczyna": "Po stronie klienta"
+  },
+  {
+    "id_zgloszenia": "2080465",
+    "id_klienta": "102851",
+    "temat": "Brak Internetu",
+    "rozmowa": [
+      "Klient: Klient zgłasza dzisiaj ponownie brak Internetu",
+      "Technik: Planowe wyłączenia prądu .Po włączeniu usługa działa poprawnie"
+    ],
+    "przyczyna": "Zasilanie"
+  },
+  {
+    "id_zgloszenia": "2080459",
+    "id_klienta": "1002373",
+    "temat": "Problem z Internetem",
+    "rozmowa": [
+      "Klient: Klientka zgłasza, że od 2 tygodni ma problem z Internetem. Jest bardzo słaby zasięg WiFi.",
+      "Technik: Wymieniono Q2 na V5"
+    ],
+    "przyczyna": "WiFi"
+  },
+  {
+    "id_zgloszenia": "2080458",
+    "id_klienta": "2002247",
+    "temat": "Zasięg WiFi",
+    "rozmowa": [
+      "Klient: pani pyta o drugi dodatk ruter - kamery w drugim budynku źle działają - prosi o tel z DT",
+      "Technik: Zaproponowano rozbudowę"
+    ],
+    "przyczyna": "Zapytanie"
+  },
+  {
+    "id_zgloszenia": "2080455",
+    "id_klienta": "102959",
+    "temat": "Serwis",
+    "rozmowa": [
+      "Klient: Klient zgłasza, że Internet przerywa i jest bardzo słaby. Restart routera wykonano.",
+      "Technik: Wymiana routera"
+    ],
+    "przyczyna": "Router"
+  },
+  {
+    "id_zgloszenia": "2080452",
+    "id_klienta": "2003377",
+    "temat": "Callcenter - Internet",
+    "rozmowa": [
+      "Klient: WCZORAJ PAN ZGLASZAL AWARIE INTERNETU, DALEJ NIE MA INTERNETU, KLIENT PROSI O INFORMACJE ZWROTNA WS NAPRAWY,",
+      "Technik: Zdublowany"
+    ],
+    "przyczyna": "Dubel"
+  },
+  {
+    "id_zgloszenia": "2080420",
+    "id_klienta": "2003377",
+    "temat": "Callcenter - internet",
+    "rozmowa": [
+      "Klient: prace rementowe sa prowadzone w tym miejscu prawdopodobnie przerwany światłowód ,brak dostepu do internetu",
+      "Technik: Naprawa zerwanego przyłącza ziemnego"
+    ],
+    "przyczyna": "Linia światłowodowa"
+  },
+  {
+    "id_zgloszenia": "2080415",
+    "id_klienta": "501",
+    "temat": "Callcenter - internet",
+    "rozmowa": [
+      "Klient: Brzoza 30, brak internetu -na routerze świeci się pomarańczowa dioda",
+      "Technik: Antena online, router widoczny w ARP, sygnał na antenie w porządku.",
+      "Technik: Telefonicznie potwierdzono działanie internetu, poinformowano Panią o tym kiedy będzie światłowód montowany na Brzozie."
+    ],
+    "przyczyna": "BD"
+  },
+  {
+    "id_zgloszenia": "2080405",
+    "id_klienta": "2004629",
+    "temat": "brak usług",
+    "rozmowa": [
+      "Klient: klient zgłasza brak mozliwości korzystania z INT, proszę o weryfikację",
+      "Technik: NAT nie był włączony na WANie. Usługa już działa poprawnie."
+    ],
+    "przyczyna": "Konfiguracja"
+  },
+  {
+    "id_zgloszenia": "2080496",
+    "id_klienta": "2001711",
+    "temat": "Callcenter - internet",
+    "rozmowa": [
+      "Klient: BRAK NETA",
+      "Technik: Wymiana uszkodzonego zasilacza"
+    ],
+    "przyczyna": "Zasilacz"
+  },
+  {
+    "id_zgloszenia": "2080495",
+    "id_klienta": "2001664",
+    "temat": "Callcenter -",
+    "rozmowa": [
+      "Klient: Proszę o kontakt DT z klientem w sprawie awarii routera . urządzenie nie działa",
+      "Technik: Wymiana uszkodzonego zasilacza"
+    ],
+    "przyczyna": "Zasilacz"
+  },
+  {
+    "id_zgloszenia": "2080469",
+    "id_klienta": "2004657",
+    "temat": "Aktywacja i Instalacja Fiber XL PILNE!",
+    "rozmowa": [
+      "Klient: Aktywacja Pana w dniu dzisiejszym. Najpóźniej jutro. Trzeba podjechać do klienta. Szczegóły u Moniki",
+      "Technik: Aktywowano"
+    ],
+    "przyczyna": "Aktywacja"
+  },
+  {
+    "id_zgloszenia": "2080468",
+    "id_klienta": "2000023",
+    "temat": "Callcenter - internet",
+    "rozmowa": [
+      "Klient: Proszę o kontakt DT z klientem w sprawie braku parametrów łącza internetowego zgodnych z umową",
+      "Technik: Klient niepoprawnie mierzył prędkość, poinstruowano jak powinien mierzyć"
+    ],
+    "przyczyna": "Po stronie klienta"
+  },
+  {
+    "id_zgloszenia": "2080465",
+    "id_klienta": "102851",
+    "temat": "Brak Internetu",
+    "rozmowa": [
+      "Klient: Klient zgłasza dzisiaj ponownie brak Internetu",
+      "Technik: Planowe wyłączenia prądu .Po włączeniu usługa działa poprawnie"
+    ],
+    "przyczyna": "Zasilanie"
+  },
+  {
+    "id_zgloszenia": "2080459",
+    "id_klienta": "1002373",
+    "temat": "Problem z Internetem",
+    "rozmowa": [
+      "Klient: Klientka zgłasza, że od 2 tygodni ma problem z Internetem. Jest bardzo słaby zasięg WiFi.",
+      "Technik: Wymieniono Q2 na V5"
+    ],
+    "przyczyna": "WiFi"
+  },
+  {
+    "id_zgloszenia": "2080458",
+    "id_klienta": "2002247",
+    "temat": "Zasięg WiFi",
+    "rozmowa": [
+      "Klient: pani pyta o drugi dodatk ruter - kamery w drugim budynku źle działają - prosi o tel z DT",
+      "Technik: Zaproponowano rozbudowę"
+    ],
+    "przyczyna": "Zapytanie"
+  },
+  {
+    "id_zgloszenia": "2080455",
+    "id_klienta": "102959",
+    "temat": "Serwis",
+    "rozmowa": [
+      "Klient: Klient zgłasza, że Internet przerywa i jest bardzo słaby. Restart routera wykonano.",
+      "Technik: Wymiana routera"
+    ],
+    "przyczyna": "Router"
+  },
+  {
+    "id_zgloszenia": "2080452",
+    "id_klienta": "2003377",
+    "temat": "Callcenter - Internet",
+    "rozmowa": [
+      "Klient: WCZORAJ PAN ZGLASZAL AWARIE INTERNETU, DALEJ NIE MA INTERNETU, KLIENT PROSI O INFORMACJE ZWROTNA WS NAPRAWY,",
+      "Technik: Zdublowany"
+    ],
+    "przyczyna": "Dubel"
+  },
+  {
+    "id_zgloszenia": "2080420",
+    "id_klienta": "2003377",
+    "temat": "Callcenter - internet",
+    "rozmowa": [
+      "Klient: prace rementowe sa prowadzone w tym miejscu prawdopodobnie przerwany światłowód ,brak dostepu do internetu",
+      "Technik: Naprawa zerwanego przyłącza ziemnego"
+    ],
+    "przyczyna": "Linia światłowodowa"
+  },
+  {
+    "id_zgloszenia": "2080415",
+    "id_klienta": "501",
+    "temat": "Callcenter - internet",
+    "rozmowa": [
+      "Klient: Brzoza 30, brak internetu -na routerze świeci się pomarańczowa dioda",
+      "Technik: Antena online, router widoczny w ARP, sygnał na antenie w porządku.",
+      "Technik: Telefonicznie potwierdzono działanie internetu, poinformowano Panią o tym kiedy będzie światłowód montowany na Brzozie."
+    ],
+    "przyczyna": "BD"
+  },
+  {
+    "id_zgloszenia": "2080405",
+    "id_klienta": "2004629",
+    "temat": "brak usług",
+    "rozmowa": [
+      "Klient: klient zgłasza brak mozliwości korzystania z INT, proszę o weryfikację",
+      "Technik: NAT nie był włączony na WANie. Usługa już działa poprawnie."
+    ],
+    "przyczyna": "Konfiguracja"
+  }
+]

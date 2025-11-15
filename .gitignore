@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+venv-ollama/
+
+# Logs and outputs
+logs/
+
+# Large training artifacts (LoRA checkpoints/adapters)
+lora-*/checkpoint-*/
+lora-*/**/adapter_model.safetensors
+lora-*/**/optimizer.pt
+lora-*/**/scheduler.pt
+lora-*/**/rng_state.pth
+lora-*/**/training_args.bin
+
+# Optionally ignore entire LoRA output dirs (uncomment to skip everything)
+# lora-deepseek-1.3b/
+# lora-phi2-mps/
+# lora-gptoss-20b/
+
+
