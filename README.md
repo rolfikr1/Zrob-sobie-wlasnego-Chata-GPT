@@ -187,7 +187,6 @@ model = PeftModel.from_pretrained(base, ADAPTER_PATH).to(DEVICE).eval()
 - `evaluate_model.py` – ewaluacja dokładności (pierwsze słowo vs etykieta)
 - `say_hi.py` – szybkie demo generacji
 - `test_model.py` – prosty test promptu
-- `lora-deepseek-1.3b/` i `lora-phi2-mps/` – przykładowe adaptery oraz checkpointy
 
 ---
 

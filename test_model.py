@@ -20,7 +20,7 @@ W odpowiedzi podaj tylko jedną z listy możliwych przyczyn.
     "temat": "brak usług",
     "rozmowa": [
       "Klient: klient zgłasza brak mozliwości korzystania z INT, proszę o weryfikację",
-      "Technik: NAT nie był włączony na WANie. Usługa już działa poprawnie."
+      "Technik: Uszkodzony zasilacz, wymieniono na nowy"
     ]
 
 Możliwe przyczyny: BD, Zasilacz, Tłumienie, Linia światłowodowa, Router, Radiówka, Core, Sprzet, Po stronie klienta, Kabel, SGT, Aktywacja, Konfiguracja, Awaria globalna, EPIX, WiFi, Zapytanie, Sieć energetyczna, Zmiana hasła, tSEC, BOK, Dubel, Odwołanie
