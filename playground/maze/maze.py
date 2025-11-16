@@ -476,6 +476,31 @@ def main():
     random.seed(42)
     np.random.seed(42)
 
+    # wejście interaktywne: liczba epizodów i częstotliwość demo
+    default_episodes = 8000
+    default_visualize_every = 500  # 0 lub <=0 aby wyłączyć
+
+    # liczba epizodów
+    try:
+        episodes_input = input(f"Podaj liczbę epizodów (Enter = {default_episodes}): ").strip()
+        episodes = int(episodes_input) if episodes_input else default_episodes
+        if episodes <= 0:
+            print(f"Liczba epizodów musi być > 0 – ustawiam {default_episodes}.")
+            episodes = default_episodes
+    except Exception:
+        print(f"Nieprawidłowa wartość – ustawiam {default_episodes}.")
+        episodes = default_episodes
+
+    # co ile epizodów pokazywać demo
+    try:
+        vis_input = input(f"Co ile epizodów pokazywać demo? 0=wyłącz (Enter = {default_visualize_every}): ").strip()
+        visualize_every = int(vis_input) if vis_input else default_visualize_every
+        if visualize_every <= 0:
+            visualize_every = None
+    except Exception:
+        print("Nieprawidłowa wartość – wyłączam demo.")
+        visualize_every = None
+
     # większy labirynt ~35x90 z pętlami
     env = MazeEnv(
         cells_h=17,
@@ -483,7 +508,7 @@ def main():
         traps_count=50,
         extra_loops=80,
     )
-    q_table = q_learning_train(env, visualize_every=500)
+    q_table = q_learning_train(env, episodes=episodes, visualize_every=visualize_every)
 
     # Pokaż, jak agent chodzi po labiryncie po treningu
     run_greedy_policy(env, q_table)
